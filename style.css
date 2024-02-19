@@ -15,7 +15,8 @@ nav{
     border-bottom: 1px solid #6f6e6e;
 }
 #menu{
-    color: #ff0000;
+    color:#000000;
+    font-size: 1.3rem;
 }
 #location{
     color: var(--brown);
@@ -101,6 +102,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 #img-01{
     width: 800px;
     height: 380px;
+    border: none;
 }
 
  /* section started  */
