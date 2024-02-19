@@ -102,13 +102,31 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     width: 800px;
     height: 380px;
 }
- /* section ended  */
 
- @media(max-width:650px){
+ /* section started  */
+/* footer started */
+
+
+#footer{
+    width: 100vw;
+    height: 8vh;
+    background-color: var(--brown);
+}
+#foot-para{
+    color: #ffffff;
+    font-size: 1rem;
+}
+/* section ended  */
+
+@media(max-width:650px){
     #signin{
         display: none;
     }
     #cart-btn{
         display: none;
     }
- }
+}
+
+/* footer ended */
+
+
